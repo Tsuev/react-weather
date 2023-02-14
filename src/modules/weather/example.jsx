@@ -2,7 +2,7 @@ import React from 'react'
 
 function example() {
   return (
-    <div>example</div>
+    <div>Write here</div>
   )
 }
 
