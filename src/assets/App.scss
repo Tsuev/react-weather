@@ -1,0 +1,10 @@
+.app {
+  &__left {
+    @apply px-76 py-62;
+    @apply bg-gradient-to-r from-indigo-400 to-blue-400;
+
+  }
+  &__right {
+    @apply px-55 py-61;
+  }
+}
