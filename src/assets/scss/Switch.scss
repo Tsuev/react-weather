@@ -1,21 +1,18 @@
 .btn-switch{
     width: 75px;
     height: 28px;
-    position: relative;
-    
+    position: relative;    
     background: rgba(255, 255, 255, 0.16);
     border-radius: 100px;
     display: flex;
-    font-size: 16px;
-    justify-content: space-between;
-    height: 28px;
-    border-radius: 20px;
+    font-size: 18px;
+    gap: 25px;
+    border-radius: 18px;
     border: none;
-    padding: 0 16px;
+    padding: 0 14px;
     background-color: rgb(255, 255, 255, 0.16);
     color: #fff;
     align-items: center;
-    width: 75px;
     margin-top: 10px;
 }
 .btn-deg{
@@ -25,7 +22,7 @@
 }
 .btn-inside{
     height: 28px;
-    width: 36px;
+    width: 37px;
     background: rgba(255, 255, 255, 0.3);
     position: absolute;
     transform: translate(-50%, -50%);
